@@ -1,0 +1,8 @@
+<recipe>
+  <selector selectorClass="csUnit.Core.CategorySelector">
+    <categorySelector />
+  </selector>
+  <selector selectorClass="csUnit.Ui.Controls.TabPages.CheckedTestsSelector">
+    <checkedTestsSelector />
+  </selector>
+</recipe>
